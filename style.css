@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    /* transform: scale(1.2); Adjust the scale factor as needed */
+    transform-origin: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container{
+     transform: scale(1.1); 
+    transform-origin: center;   
+}
+#amount{
+    border : none ;
+    outline : none;
+}
+.heading{
+    font-family: Gilroy;
+}
